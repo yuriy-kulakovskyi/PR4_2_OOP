@@ -1,0 +1,22 @@
+# ninja log v6
+2	440	1745821682730256405	CMakeFiles/PR4_2.dir/classes/Parallelepiped.cpp.o	ac36d460e5eae4c2
+3	443	1745821682731201490	CMakeFiles/PR4_2.dir/classes/Sphere.cpp.o	6e57a547585ef886
+4	534	1745821682732082286	CMakeFiles/PR4_2.dir/main.cpp.o	3f27bab16e65d7b0
+6	333	1745821732616158884	CMakeFiles/PR4_2.dir/classes/Tetrahedron.cpp.o	998197c70ad309cf
+6	437	1745821732616617406	CMakeFiles/PR4_2.dir/main.cpp.o	3f27bab16e65d7b0
+437	561	1745821733047169819	PR4_2	6cf9835cccf54625
+8	419	1745821744903208494	CMakeFiles/PR4_2_tests.dir/classes/Tetrahedron.cpp.o	b597b8f36a01d37c
+7	420	1745821744902616019	CMakeFiles/PR4_2_tests.dir/classes/Parallelepiped.cpp.o	e6d58f24aed8edeb
+7	423	1745821744902853967	CMakeFiles/PR4_2_tests.dir/classes/Sphere.cpp.o	ed2acd115c4f67e1
+6	718	1745821744902230827	lib/googletest/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o	4657db9aaad5e264
+419	933	1745821745315134991	CMakeFiles/PR4_2_tests.dir/tests/tests.cpp.o	a96312a2230e2bc8
+420	1001	1745821745315994871	lib/googletest/googlemock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.o	4ded1ca2e12d9ec8
+6	1125	1745821744901816887	lib/googletest/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.o	ef947b268c1608ef
+6	1728	1745821744901436111	lib/googletest/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.o	2045e1e637b15db2
+1729	1770	1745821746624154907	lib/libgtest.a	b51b69e6de22023b
+1771	1790	1745821746666209741	lib/libgtest_main.a	ddd85a377c936fa9
+1770	1796	1745821746666009541	lib/libgmock.a	c8c98fe986cb389b
+1796	1814	1745821746691138846	lib/libgmock_main.a	c7b38932d055d06e
+1790	2083	1745821746977463943	PR4_2_tests	45c4e358b8e4d68f
+1790	2083	1745821746977463943	PR4_2_tests[1]_tests.cmake	45c4e358b8e4d68f
+1790	2083	1745821746977463943	/Users/yura_kulakovskyi/Documents/C++/OOP/PR4/PR4_2/cmake-build-debug/PR4_2_tests[1]_tests.cmake	45c4e358b8e4d68f
